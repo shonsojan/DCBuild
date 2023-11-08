@@ -1,6 +1,7 @@
 # DCBuild
+![final-output](images/final.png)
 ## Justice League
-This repo is for an in-class build demonstrating basic CSS layouts, CSS sprites, and a light-box effect.
+This repo is a character build of justice league demonstrating basic CSS layouts, CSS sprites, and a light-box effect.
 
 ## Installation
 
@@ -24,7 +25,7 @@ TODO: Write history
 
 ## Credits
 
-Shon Sojan
+Shon Sojan - Creator
 
 ## License
 
