@@ -174,7 +174,6 @@ footer{
     line-height: 26px;
 }
 
-/* .lightbox#lightbox2 or .lightbox#lightbox */
 .lightbox:target {
     display: block;
 }
